@@ -1,0 +1,49 @@
+address	49
+Pan Coarse	127
+Pan Fine	255
+Tilt Coarse	127
+Tilt Fine	255
+Color Mix Funtion	0
+Cyan	255
+Magenta	255
+Yellow	255
+CTO	255
+Static Color Funtion	48
+Static Color Position	0
+Gobo 1 Function	0
+Gobo 1 Position	0
+Gobo 1 Rotate Function	0
+Gobo 1 Rotate Coarse	127
+Gobo 1 Rotate Fine	255
+Gobo 2 Function	0
+Gobo 2 Position	0
+Blade 1 Angle A	0
+Blade 1 Angle B	0
+Blade 2 Angle A	0
+Blade 2 Angle B	0
+Blade 3 Angle A	0
+Blade 3 Angle B	0
+Blade 4 Angle A	0
+Blade 4 Angle B	0
+Frame Rotation Coarse	0
+Frame Rotation Fine	0
+Animation Function	0
+Prism Function	0
+Prism Rotate Coarse	127
+Prism Rotate Fine	255
+Frost	0
+Focus Coarse	127
+Focus Fine	255
+Zoom Coarse	127
+Zoom Fine	255
+Auto Focus	0
+AutoFocus Fine	0
+Iris	255
+Shutter/LED Function	0
+Shutter/LED	255
+Dim Coarse	0
+Dim Fine	0
+Mspeed	0
+Control	0
+Indigo Highlighter Function	0
+Indigo Highlighter Dim	0
