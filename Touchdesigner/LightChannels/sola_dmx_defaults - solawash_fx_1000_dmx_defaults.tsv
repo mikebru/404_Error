@@ -1,0 +1,33 @@
+address	49
+PanCoarse	127
+PanFine	255
+TiltCoarse	127
+TiltFine	255
+ColorMixFuntion	0
+Cyan	255
+Magenta	255
+Yellow	255
+CTO	255
+StaticColorFuntion	48
+StaticColorPosition	0
+Gobo 1 Function	0
+Gobo 1 Position	0
+Gobo 1 Rotate Function	0
+Gobo 1 Rotate Coarse	127
+Gobo 1 Rotate Fine	255
+Frost	0
+Frost 2	0
+Focus Coarse	127
+Focus Fine	255
+Zoom Coarse	127
+Zoom Fine	255
+Iris	255
+Shutter/LED Function	0
+Shutter/LED	255
+DimCoarse	0
+DimFine	0
+Macro	0
+Macro Rate	128
+Macro Xfade	128
+Mspeed	0
+Control	0
