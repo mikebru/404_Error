@@ -5,7 +5,7 @@ Cue Number	Cue Name 	Lights	Effect
 43	Age 12	3	1
 45	release		1
 51	lighting designer	4,0,1	1
-61	two out	4	1
+61	two out	4,0,1	1
 65	release		1
 72	Sequence	3,4,2,0,1	2
 91	release		1
